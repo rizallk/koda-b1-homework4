@@ -1,0 +1,14 @@
+D:\Koda\homeworks\koda-b1-homework4\.net\src\Homework4.Console\bin\Debug\net10.0\Homework4.Console.exe
+D:\Koda\homeworks\koda-b1-homework4\.net\src\Homework4.Console\bin\Debug\net10.0\Homework4.Console.deps.json
+D:\Koda\homeworks\koda-b1-homework4\.net\src\Homework4.Console\bin\Debug\net10.0\Homework4.Console.runtimeconfig.json
+D:\Koda\homeworks\koda-b1-homework4\.net\src\Homework4.Console\bin\Debug\net10.0\Homework4.Console.dll
+D:\Koda\homeworks\koda-b1-homework4\.net\src\Homework4.Console\bin\Debug\net10.0\Homework4.Console.pdb
+D:\Koda\homeworks\koda-b1-homework4\.net\src\Homework4.Console\obj\Debug\net10.0\Homework4.Console.GeneratedMSBuildEditorConfig.editorconfig
+D:\Koda\homeworks\koda-b1-homework4\.net\src\Homework4.Console\obj\Debug\net10.0\Homework4.Console.AssemblyInfoInputs.cache
+D:\Koda\homeworks\koda-b1-homework4\.net\src\Homework4.Console\obj\Debug\net10.0\Homework4.Console.AssemblyInfo.cs
+D:\Koda\homeworks\koda-b1-homework4\.net\src\Homework4.Console\obj\Debug\net10.0\Homework4.Console.csproj.CoreCompileInputs.cache
+D:\Koda\homeworks\koda-b1-homework4\.net\src\Homework4.Console\obj\Debug\net10.0\Homework4.Console.dll
+D:\Koda\homeworks\koda-b1-homework4\.net\src\Homework4.Console\obj\Debug\net10.0\refint\Homework4.Console.dll
+D:\Koda\homeworks\koda-b1-homework4\.net\src\Homework4.Console\obj\Debug\net10.0\Homework4.Console.pdb
+D:\Koda\homeworks\koda-b1-homework4\.net\src\Homework4.Console\obj\Debug\net10.0\Homework4.Console.genruntimeconfig.cache
+D:\Koda\homeworks\koda-b1-homework4\.net\src\Homework4.Console\obj\Debug\net10.0\ref\Homework4.Console.dll
